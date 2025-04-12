@@ -109,6 +109,7 @@ AC_CONFIG_FILES([
         example-modules/ietf-interfaces/Makefile
         example-modules/ietf-system/Makefile
         example-modules/yangcli-to-rpc/Makefile
+        example-modules/aether-networks/Makefile
         netconf/src/yangrpc/Makefile
         netconf/src/yangrpc/example/Makefile
         netconf/src/yangdump/Makefile
